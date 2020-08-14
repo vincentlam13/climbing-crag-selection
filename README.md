@@ -1,8 +1,8 @@
 # climbing-crag-selection
 
-- Created a tool to help decide which climbing crags to focus on for my future climbing trip, with the goal to improve the climbing grades of my friends and I.
+- Created a tool to help decide which climbing crags to focus on for future climbing trips, with the goal to improve the climbing grades of my friends and I.
 - Scraped over 4000 routes/problems for the climbing destination in question.
-- I will report back whether my efforts were successful or not.
+- I will update this repositry as I analyse more climbing destinations and update whether my efforts were successful.
 
 # Code and Resources Used
 **Python Version:** 3.8
