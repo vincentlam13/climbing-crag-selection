@@ -29,18 +29,17 @@ Below are a few insights gleamed from the routes analysis.
 
 Based on this data analysis we will be going to Blacknor South, Winspit, and Cheyne Weares Area.
 
-Blacknor South:
-Sacred Angel ** 15m (Easy up to ledge, then fingery crux with pockets)
-To Wish the Impossible *** 20m (sustained with delicate & fingery climbing, lots of rests, big moves off jugs)
-Winspit
-Peppercorn Rate ** 20m (tough and pumpy with a blind crack)
-Exuberence * 20m (one hard bit at top, not so many onsightsbut alot of redpoints)
-Ancient order of Freemarblers ** 20m (steep stamina climbing, decent proportion of onsights)
-Gallows' Gore ** 20m (crux at the middle, either fingery or pull hard, can be onsightable by a boulderer)
-Agonies of a Dying Mind * 20m (powerful start about a V3/V4, but high rate of onsight and redpoints)
-Cheyne Weares Area
-The Accelerator * 7m (sounds super soft and pump shouldn't be a factor!)
-I will report back to say whether it was a mission success or not :)
+|  Crag | Route  | Star | Height (m)  | Notes  |
+|---|---|---|---|---|
+| Blacknor South  | Sacred Angel  | ** | 15  | Easy up to ledge, then fingery crux with pockets |
+| Blacknor South  | To Wish the Impossible   | *** | 20  | Sustained with delicate & fingery climbing, lots of rests, big moves off jugs  |
+| Winspit  | Peppercorn Rate  | **  | 20  | Tough and pumpy with a blind crack  | 
+| Winspit  | Exuberence  |  * | 20  | One hard bit at top, not so many onsightsbut alot of redpoints  | 
+| Winspit  | Ancient order of Freemarblers  | **  | 20  | Steep stamina climbing, decent proportion of onsights  | 
+| Winspit  | Gallows' Gore  |  ** | 20  | Powerful start about a V3/V4, but high rate of onsight and redpoints  | 
+| Winspit  | Agonies of a Dying Mind  |  * | 20  | Powerful start about a V3/V4, but high rate of onsight and redpoints  | 
+| Cheyne Weares Area  | The Accelerator  | *  | 7  |  Sounds super soft and pump shouldn't be a factor! | 
 
 # Future Improvements
 - Automate the analysis process for future climbing trips, likely destinations include the Peak Districtm Southern Sandstone, Costa Blanca, and Chamonix.
+- Screenshot and scrape the bar chart information on style of ascents and sort the routes by highest percent that have been onsighted.
