@@ -35,7 +35,7 @@ Below are a few insights gleamed from the routes analysis.
 ![Chosen crags](/images/crags.PNG)
 
 
-Based on this data analysis we will be going to Blacknor South, Winspit, and Cheyne Weares Area.
+Based on this data analysis we will be going to Blacknor South, Winspit, and Cheyne Weares Area. The list of potential routes are shown in table below.
 
 |  Crag | Route  | Star | Height (m)  | Notes  |
 |---|---|---|---|---|
@@ -50,6 +50,8 @@ Based on this data analysis we will be going to Blacknor South, Winspit, and Che
 
 # Future Improvements
 - Automate the analysis process for future climbing trips, likely destinations include the Peak Districtm Southern Sandstone, Costa Blanca, and Chamonix.
-- Screenshot and scrape the bar chart information on style of ascents and voting of the route diffulty, and sort the routes by highest percent that have been onsighted or by 'softness'.
+- Screenshot and scrape the bar chart information on style of ascents and voting of the route diffulty, and sort the routes by highest percent that have been onsighted or by 'softness'. Example shown below.
+
+![Future improvement](/images/future-scraping.PNG)
 
 
