@@ -26,6 +26,14 @@ After scraping the data, I need to clean it before analysis. The following chang
 
 # EDA
 Below are a few insights gleamed from the routes analysis.
+![Climbing disciplines in Dorset](/images/disciplines.png)
+
+![Sport grade distribution](/images/sport-grade-distribution.png)
+
+![7a routes sorted by popularity](/images/logged-7a.PNG)
+
+![Chosen crags](/images/crags.PNG)
+
 
 Based on this data analysis we will be going to Blacknor South, Winspit, and Cheyne Weares Area.
 
@@ -42,4 +50,6 @@ Based on this data analysis we will be going to Blacknor South, Winspit, and Che
 
 # Future Improvements
 - Automate the analysis process for future climbing trips, likely destinations include the Peak Districtm Southern Sandstone, Costa Blanca, and Chamonix.
-- Screenshot and scrape the bar chart information on style of ascents and sort the routes by highest percent that have been onsighted.
+- Screenshot and scrape the bar chart information on style of ascents and voting of the route diffulty, and sort the routes by highest percent that have been onsighted or by 'softness'.
+
+
