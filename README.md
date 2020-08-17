@@ -26,12 +26,17 @@ After scraping the data, I need to clean it before analysis. The following chang
 
 # EDA
 Below are a few insights gleamed from the routes analysis.
+
+Breakdown of climbing disciplines in Dorset
 ![Climbing disciplines in Dorset](/images/disciplines.png)
 
+Breakdown of sport grade distribution
 ![Sport grade distribution](/images/sport-grade-distribution.png)
 
+7a routes sorted by number of logs
 ![7a routes sorted by popularity](/images/logged-7a.PNG)
 
+I filtered out crags that had at least two 7a routes that had been logged 100 times on ukc.
 ![Chosen crags](/images/crags.PNG)
 
 
