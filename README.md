@@ -2,7 +2,7 @@
 
 - Created a tool to help decide which climbing crags to focus on for future climbing trips, with the goal to improve the climbing grades of my friends and I.
 - Scraped over 4000 routes/problems for the climbing destination in question.
-- I will update this repositry as I analyse more climbing destinations and update whether my efforts were successful.
+- UPDATE: This project has been worthwhile as my friend and I managed to send a 7a route, The Accelerator at Cheyne Weares. 
 
 # Code and Resources Used
 **Python Version:** 3.8
@@ -56,6 +56,7 @@ Based on this data analysis we will be going to Blacknor South, Winspit, and Che
 # Future Improvements
 - Automate the analysis process for future climbing trips, likely destinations include the Peak Districtm Southern Sandstone, Costa Blanca, and Chamonix.
 - Screenshot and scrape the bar chart information on style of ascents and voting of the route diffulty, and sort the routes by highest percent that have been onsighted or by 'softness'. Example shown below.
+- Scrape user notes and use regex to search the strings for clues for climbs in our style.
 
 ![Future improvement](/images/future-scraping.PNG)
 
